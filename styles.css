@@ -1,0 +1,29 @@
+/* Your CSS code goes in this file. */
+
+/*<Text CSS Styles>*/
+h1 {color: Purple; font-family: Helvetica Neue Bold; font-size: 40px;}
+  h2 {color: Magenta; font-size: 30px; font-family: Helvetica Neue;}
+    h3 {color: Green; font-size:  25px; font-family: Helvetica Neue;}
+      h4 {color: Blue; font-size: 20px; font-family: Helvetica Neue;}
+.important {color: blue; font-family: monospace; font-family: Helvetica Neue;}
+.paragraph {border-right: solid 5px black; font-family: Helvetica Neue; font-size: 100%; justify-content: flex-end;}
+li {font-family: Helvetica Neue; justify-content: flex-end;}
+p {font-family: Helvetica Neue; font-size: 15px;}
+a {color: MidnightBlue; font-weight: bold; font-style: italic;}
+
+/*<Image styles custom CSS>*/
+.card-img-top {
+  border: round solid 3px black;
+  margin: 20px;
+  box-shadow: 5px 5px 5px gray;
+  width: 500px;
+  height: 400px;
+  text-align: center;}
+
+.img-fluid {width: 500px; height: 400px;}
+
+
+
+/*Grid style custom CSS*/
+.row {font-family: Helvetica Neue; justify-content: flex-end;}
+.col {font-family: Helvetica Neue; justify-content: flex-end;}
